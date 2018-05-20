@@ -6,6 +6,7 @@
     <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
   </JavaCodeStyleSettings>
@@ -61,7 +62,7 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_LONG_LINES" value="true" />
-    <option name="METHOD_ANNOTATION_WRAP" value="5" />
+    <option name="FIELD_ANNOTATION_WRAP" value="0" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="5" />
     <option name="ENUM_CONSTANTS_WRAP" value="5" />
     <option name="WRAP_ON_TYPING" value="0" />
